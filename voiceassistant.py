@@ -1,5 +1,5 @@
 import pyttsx3 #type: ignore
-imprt speech_recognition as sr #type: ignore
+import speech_recognition as sr #type: ignore
 import datetime
 from fetchinfo import weather,headlines,info  # custom module
 from sys import exit
